@@ -17,6 +17,12 @@
   },
   "homepage": "https://github.com/marin-robotics/js1#readme",
   "dependencies": {
+<<<<<<< HEAD
     "express": "^4.18.2"
+=======
+    "express": "^4.18.2",
+    "firebase": "^9.15.0",
+    "firebase-admin": "^11.4.1"
+>>>>>>> main
   }
 }
