@@ -1,6 +1,7 @@
 
 const { initializeApp } = require('firebase/app');
 const { getFirestore, collection, getDocs } = require('firebase/firestore/lite');
+const x = requirec('firebase/database')
 const admin = require('firebase-admin')
 
 
