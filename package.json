@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/marin-robotics/js1/issues"
   },
-  "homepage": "https://github.com/marin-robotics/js1#readme"
+  "homepage": "https://github.com/marin-robotics/js1#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase": "^9.15.0",
+    "firebase-admin": "^11.4.1"
+  }
 }
