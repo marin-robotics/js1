@@ -1,9 +1,10 @@
 
 const { initializeApp } = require('firebase/app');
 const { getFirestore, collection, getDocs } = require('firebase/firestore/lite');
-const x = requirec('firebase/database')
+const x = require('firebase/database')
 const admin = require('firebase-admin')
 
+console.log(x)
 
 // TODO: Replace the following with your app's Firebase project configuration
 const firebaseConfig = {
